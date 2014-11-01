@@ -1,6 +1,7 @@
 {
 	"name": "dojo-store-rest",
 	"author": "Rodrigo González",
+	"version" : "0.0.0",
 	"description": "An alternative to dojo/store/JsonRest that use the [rest-endpoint](https://github.com/sapienlab/rest-endpoint) module",
 	"licenses": [
 		{

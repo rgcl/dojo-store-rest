@@ -1,0 +1,20 @@
+{
+	"name": "dojo-store-rest",
+	"author": "Rodrigo González",
+	"description": "An alternative to dojo/store/JsonRest that use the [rest-endpoint](https://github.com/sapienlab/rest-endpoint) module",
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://opensource.org/licenses/MIT"
+		}
+	],
+	"dependencies": {
+		"dojo": "1.10"
+	},
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/roro89/dojo-store-rest"
+	},
+	"main": "./main",
+	"dojoBuild": "package.js"
+}

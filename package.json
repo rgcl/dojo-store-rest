@@ -15,6 +15,6 @@
 		"type": "git",
 		"url": "http://github.com/roro89/dojo-store-rest"
 	},
-	"main": "./main",
+	"main": "./RestStore.js",
 	"dojoBuild": "package.js"
 }
